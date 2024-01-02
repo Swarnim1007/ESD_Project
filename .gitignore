@@ -1,59 +1,59 @@
-./front_end/esd_frontend/node_modules/**
+./frontend/esd_frontend/node_modules/**
 
-./back_end/HELP.md
-./back_end/target/
-./back_end/!.mvn/wrapper/maven-wrapper.jar
-./back_end/!**/src/main/**/target/
-./back_end/!**/src/test/**/target/
+./backend/HELP.md
+./backend/target/
+./backend/!.mvn/wrapper/maven-wrapper.jar
+./backend/!**/src/main/**/target/
+./backend/!**/src/test/**/target/
 
 ### STS ###
-./back_end/.apt_generated
-./back_end/.classpath
-./back_end/.factorypath
-./back_end/.project
-./back_end/.settings
-./back_end/.springBeans
-./back_end/.sts4-cache
+./backend/.apt_generated
+./backend/.classpath
+./backend/.factorypath
+./backend/.project
+./backend/.settings
+./backend/.springBeans
+./backend/.sts4-cache
 
 ### IntelliJ IDEA ###
-./back_end/.idea
-./back_end/*.iws
-./back_end/*.iml
-./back_end/*.ipr
+./backend/.idea
+./backend/*.iws
+./backend/*.iml
+./backend/*.ipr
 
 ### NetBeans ###
-./back_end/nbproject/private/
-./back_end/nbbuild/
-./back_end/dist/
-./back_end/nbdist/
-./back_end/.nb-gradle/
-./back_end/build/
-./back_end/!**/src/main/**/build/
-./back_end/!**/src/test/**/build/
+./backend/nbproject/private/
+./backend/nbbuild/
+./backend/dist/
+./backend/nbdist/
+./backend/.nb-gradle/
+./backend/build/
+./backend/!**/src/main/**/build/
+./backend/!**/src/test/**/build/
 
 ### VS Code ###
-./back_end/.vscode/
+./backend/.vscode/
 
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-./front_end/esd_frontend/node_modules
-./front_end/esd_frontend/.pnp
-./front_end/esd_frontend/.pnp.js
+./frontend/esd_frontend/node_modules
+./frontend/esd_frontend/.pnp
+./frontend/esd_frontend/.pnp.js
 
 # testing
-./front_end/esd_frontend/coverage
+./frontend/esd_frontend/coverage
 
 # production
-./front_end/esd_frontend/build
+./frontend/esd_frontend/build
 
 # misc
-./front_end/esd_frontend/.DS_Store
-./front_end/esd_frontend/.env.local
-./front_end/esd_frontend/.env.development.local
-./front_end/esd_frontend/.env.test.local
-./front_end/esd_frontend/.env.production.local
+./frontend/esd_frontend/.DS_Store
+./frontend/esd_frontend/.env.local
+./frontend/esd_frontend/.env.development.local
+./frontend/esd_frontend/.env.test.local
+./frontend/esd_frontend/.env.production.local
 
-./front_end/esd_frontend/npm-debug.log*
-./front_end/esd_frontend/yarn-debug.log*
-./front_end/esd_frontend/yarn-error.log*
+./frontend/esd_frontend/npm-debug.log*
+./frontend/esd_frontend/yarn-debug.log*
+./frontend/esd_frontend/yarn-error.log*
