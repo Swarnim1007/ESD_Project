@@ -33,3 +33,27 @@
 
 ### VS Code ###
 ./back_end/.vscode/
+
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+./front_end/esd_frontend/node_modules
+./front_end/esd_frontend/.pnp
+./front_end/esd_frontend/.pnp.js
+
+# testing
+./front_end/esd_frontend/coverage
+
+# production
+./front_end/esd_frontend/build
+
+# misc
+./front_end/esd_frontend/.DS_Store
+./front_end/esd_frontend/.env.local
+./front_end/esd_frontend/.env.development.local
+./front_end/esd_frontend/.env.test.local
+./front_end/esd_frontend/.env.production.local
+
+./front_end/esd_frontend/npm-debug.log*
+./front_end/esd_frontend/yarn-debug.log*
+./front_end/esd_frontend/yarn-error.log*
